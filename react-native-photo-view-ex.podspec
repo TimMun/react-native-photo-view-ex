@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
   s.tvos.deployment_target = "9.0"
   s.source       = { :git => "https://github.com/aMarCruz/react-native-photo-view-ex.git", :tag => "v#{s.version}" }
   s.source_files  = "ios/*.{h,m}"
-  s.dependency "React"
+  s.dependency "React-Core"
 end
