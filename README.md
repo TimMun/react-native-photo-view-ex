@@ -15,7 +15,7 @@ This fork is based on the great work of @alwx (Alexander Pantyuhov) and has this
 - Peer dependent on react-native v0.57 and above.
 - Using the same version of [fresco](https://github.com/facebook/fresco) included by react-native.
 - Updated dependencies
-  - [Relex photodraweeview](https://github.com/ongakuer/PhotoDraweeView) v1.1.3
+  - [Relex photodraweeview](https://github.com/ongakuer/PhotoDraweeView) v2.1.0
   - Android plugin for Gradle v4.10.x
 - Changes to gradle config to support the new version.
 - Changes to some properties, mainly `androidScaleType` replaced by `resizeMode`.
